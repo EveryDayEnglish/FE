@@ -6,11 +6,11 @@ EveryDay English 학원을 위한 자료 관리 및 커뮤니티 플랫폼의 �
 ## 기술 스택
 - **Framework**: Next.js 14+ (App Router)
 - **Language**: TypeScript
-- **Backend**: Supabase (PostgreSQL, Storage, Auth)
+- **Backend**: TBD
 - **Styling**: Tailwind CSS
 - **State Management**: React Context API / Zustand (선택)
 - **Form Management**: React Hook Form (선택)
-- **Data Fetching**: Supabase Client / TanStack Query (선택)
+- **Data Fetching**: TanStack Query (선택)
 
 ## 사용자 권한 (User Roles)
 - **Teacher (선생님)**: 모든 기능 접근 가능
